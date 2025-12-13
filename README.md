@@ -17,7 +17,5 @@ I design and implement probabilistic and decision-making systems where uncertain
 
 Primary stack: Python, JAX, Ray, NumPyro, PyTorch, SciPy, C++, Rust
 
----
-
 > [!NOTE]  
 > 💼 Available for freelancing / contracting / consulting.
