@@ -1,4 +1,4 @@
-## Markus Semmler
+## kosmitive
 
 I design and implement probabilistic and decision-making systems where uncertainty, dynamics, and constraints matter.
 
