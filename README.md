@@ -1,22 +1,19 @@
 ## kosmitive
 
-I design and implement probabilistic and decision-making systems where uncertainty, dynamics, and constraints matter.
+I am an expert in probabilistic algorithms for decision-making systems where uncertainty, dynamics, and constraints matter.
+Feel free to contact me [here](https://tally.so/r/XxLdVz) or through [discord](https://discord.com/users/kosmitive).
 
-### Core areas
+### core areas
 
-- 🤖 Reinforcement learning & control (model-based RL, model-free RL, MARL)
-- 📐 State-space models (SSM, LGSSM, nonlinear SSMs)
-- 🧠 Bayesian & probabilistic modeling (VI, MCMC, filtering, smoothing)
+- 🤖 reinforcement learning & control
+- 📐 state-space models
+- 🧠 bayesian & probabilistic modeling
 
-### Delivery capabilities
+### delivery capabilities
 
-- 🧪 Reproducible, research-quality implementations
-- ⚡ Edge-optimized implementations (latency- and memory-constrained)
-- ☁️ Scalable systems on distributed clusters (cloud & on‑prem)
+- 🧪 reproducible, research-quality implementations
+- ⚡ edge-optimized implementations
+- ☁️ scalable systems on distributed clusters
 
-Primary stack: Python, JAX, Ray, NumPyro, PyTorch, SciPy, C++, Rust
+primary stack: python, jax, ray, numpyro, torch, scipy, rust
 
-### Contact
-
-> [discord](https://discord.com/users/kosmitive)
-> OR [here](https://tally.so/r/XxLdVz).
