@@ -4,10 +4,9 @@ I design and implement probabilistic and decision-making systems where uncertain
 
 ### Core areas
 
+- 🤖 Reinforcement learning & control (model-based RL, model-free RL, MARL)
 - 📐 State-space models (SSM, LGSSM, nonlinear SSMs)
 - 🧠 Bayesian & probabilistic modeling (VI, MCMC, filtering, smoothing)
-- 🤖 Reinforcement learning & control (model-based RL, model-free RL, MARL)
-- 👁️ End-to-end deep learning pipelines for (LLM, CV)
 
 ### Delivery capabilities
 
@@ -17,5 +16,7 @@ I design and implement probabilistic and decision-making systems where uncertain
 
 Primary stack: Python, JAX, Ray, NumPyro, PyTorch, SciPy, C++, Rust
 
-> [!NOTE]  
-> 💼 Contact me [here](https://tally.so/r/XxLdVz).
+### Contact
+
+> [discord](https://discord.com/users/kosmitive)
+> OR [here](https://tally.so/r/XxLdVz).
